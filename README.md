@@ -1,4 +1,4 @@
-# Stock-Data-Collection
+# Multi_Agent_Financial_Trading_System
 
 一个用于学习和实践的 **股票证券数据采集项目**。  
 项目的目标是从公开财经数据源采集股票与指数相关数据，并将结果整理后保存到数据库，方便后续做数据分析、量化研究、报表统计或自动化更新。
